@@ -47,6 +47,9 @@ header nav a{
   font-style: italic; 
 }
 
+.clear{
+  clear: both;
+}
 
 img{
   width: 800px;
