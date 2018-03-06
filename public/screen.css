@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: auto;
   min-height: 100%;
   width: 1200px;
   font: 20px / 1 helvetica,sans-serif;
