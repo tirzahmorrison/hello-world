@@ -28,6 +28,17 @@ header nav a{
   font-size: 32px;
 }
 
+#sidebar{
+  width: 200px;
+  padding: 20px;
+  float: left;
+}
+
+#article{
+  width: 1000px;
+  padding: 20px;
+  float: right;
+}
 .feet{
   font-size: 12px;
 }
@@ -38,5 +49,5 @@ header nav a{
 
 
 img{
-  width: 1024px;
+  width: 800px;
 }
